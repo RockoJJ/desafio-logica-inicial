@@ -1,5 +1,5 @@
-let vitoria = "150";
-let derrota = "100";
+let vitoria = "";
+let derrota = "";
 
 function calcularRank (vitoria, derrota) {
     let saldo = vitoria - derrota;
